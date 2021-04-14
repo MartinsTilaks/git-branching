@@ -1,3 +1,5 @@
+Repository for homework task Branching and Merging 
+
 #git-branching
 
 #git-develop-branch
