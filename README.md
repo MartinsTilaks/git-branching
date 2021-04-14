@@ -1,4 +1,5 @@
 Repository for homework task Branching and Merging 
+Capture.png is screenshot of git log --graph --oneline
 
 #git-branching
 
